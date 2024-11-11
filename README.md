@@ -1,1 +1,1 @@
-A customizable bingo game that has a shareable link
+A customizable bingo game that has a shareable link.
